@@ -8,6 +8,7 @@ public class Teste {
 		System.out.println("ALTERADO DO GitHub");
 		System.out.println("segundo commit");
 		System.out.println("terceiro commit");
+		System.out.println("quarto commit");
 	}
 
 }
