@@ -10,7 +10,7 @@ public class Teste {
 		System.out.println("terceiro commit");
 		System.out.println("quarta commit");
 		System.out.println("quinta commit");
-
+		System.out.println("sexta commit");
 	}
 
 }
