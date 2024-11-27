@@ -9,6 +9,7 @@ public class Teste {
 		System.out.println("segundo commit");
 		System.out.println("terceiro commit");
 		System.out.println("Finalmente");
+		System.out.println("Alteração final");
 	}
 
 }
